@@ -1,0 +1,49 @@
+# Entorno virtual
+venv/
+.env
+
+# Archivos de configuración sensibles
+*.env
+*.env.*
+
+# Archivos de cache y compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de log
+*.log
+
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Jupyter (por si los usas)
+.ipynb_checkpoints/
+
+# Archivos creados por herramientas de desarrollo
+*.coverage
+*.pytest_cache/
+.mypy_cache/
+.pytest_cache/
+.pyre/
+.pytype/
+
+# Archivos de dependencias locales
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Archivos de VSCode / PyCharm
+.vscode/
+.idea/
+
+# Archivos de salida
+*.out
+*.tmp
+*.bak
+
+# Archivos específicos de ChromaDB (si guardas persistencia local)
+chroma/
