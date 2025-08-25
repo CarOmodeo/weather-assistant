@@ -41,11 +41,11 @@ Ejemplo de interacción:
 
     🌤️ Welcome to the weather assistant.
 
-    🧑 You: ¿Cuál es el clima en Madrid ahora?
-    🤖 Assistant: Actualmente en Madrid hay 25°C con cielo despejado.
+    🧑 You: What’s the weather like in Madrid right now?
+    🤖 Assistant: Currently in Madrid it’s 25°C with clear skies.
 
-    🧑 You: ¿Cómo estará el clima en Nueva York los próximos 3 días?
-    🤖 Assistant: En Nueva York se esperan lluvias ligeras mañana y temperaturas de 20-25°C durante los próximos 3 días.
+    🧑 You: What will the weather be like in New York for the next 3 days?
+    🤖 Assistant: In New York, light rain is expected tomorrow, with temperatures ranging from 20-25°C over the next 3 days.
 
 Para salir, escribir:
 
